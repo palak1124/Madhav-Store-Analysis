@@ -3,38 +3,26 @@
 
 
 Welcome to our Business Intelligence (BI) project, where we have developed a comprehensive dashboard to provide key insights into our business performance. The dashboard focuses on crucial Key Performance Indicators (KPIs) such as Total Revenue, Total Profit, Total Quantity Sold, and Average Order Value. Additionally, the dashboard addresses specific questions regarding payment methods, category-wise sales distribution, month-on-month profits, most profitable states, and month-on-month sales trends.
+
 **Key Metrics:**
 
-**Total Revenue:**
+**Total Revenue:** The dashboard prominently displays the total revenue generated over a selected time period. It offers a clear overview of the company's financial performance.
 
-The dashboard prominently displays the total revenue generated over a selected time period. It offers a clear overview of the company's financial performance.
-**Total Profit:**
-
-Gain insights into the overall profit margins, helping stakeholders understand the financial health of the business.
-**Total Quantity Sold:**
-
-Track the total quantity of products sold, providing valuable information for inventory management and demand forecasting.
-**Average Order Value:**
-
-Understand the average value of each customer order, aiding in strategic pricing and marketing decisions.
+**Total Profit:** Gain insights into the overall profit margins, helping stakeholders understand the financial health of the business.
+ **Total Quantity Sold:** Track the total quantity of products sold, providing valuable information for inventory management and demand forecasting.
+**Average Order Value:** Understand the average value of each customer order, aiding in strategic pricing and marketing decisions.
 
 **Detailed Analysis:**
 
-**Payment Methods:**
+**Payment Methods:** The dashboard breaks down the payment methods used by customers for purchases. Whether it's credit cards, digital wallets, or other methods, this information guides improvements in payment processing and customer experience.
 
-The dashboard breaks down the payment methods used by customers for purchases. Whether it's credit cards, digital wallets, or other methods, this information guides improvements in payment processing and customer experience.
-**Category-wise Sales Distribution:**
+**Category-wise Sales Distribution:** Explore the share of each product category in the total sales. This breakdown helps in identifying top-performing categories and areas for potential growth.
 
-Explore the share of each product category in the total sales. This breakdown helps in identifying top-performing categories and areas for potential growth.
-**Month-on-Month Profits:**
+**Month-on-Month Profits:** An in-depth analysis of profits on a monthly basis allows stakeholders to track trends, identify seasonal patterns, and make informed decisions to optimize profitability.
 
-An in-depth analysis of profits on a monthly basis allows stakeholders to track trends, identify seasonal patterns, and make informed decisions to optimize profitability.
-**Most Profitable States:**
+**Most Profitable States:** Pinpoint the states contributing the most to profits. This insight is vital for targeted marketing efforts, inventory allocation, and resource optimization.
 
-Pinpoint the states contributing the most to profits. This insight is vital for targeted marketing efforts, inventory allocation, and resource optimization.
-**Month-on-Month Sales Trends:**
-
-Evaluate the performance of sales month by month, identifying peaks and troughs. This knowledge aids in planning marketing campaigns and adjusting inventory levels accordingly.
+**Month-on-Month Sales Trends:** Evaluate the performance of sales month by month, identifying peaks and troughs. This knowledge aids in planning marketing campaigns and adjusting inventory levels accordingly.
 
 **Findings**
 Cash on Delivery (44%) is used mostly for the payment followed by UPI (21%), Debit Card(13%) and Credit Card (12%).
